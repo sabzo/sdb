@@ -7,6 +7,12 @@
 * [ ] Step into functions
 * [ ] Redirect program execution
 
+## Usage
+sdb <prog-name>
+
+## Resources
+- (http://eli.thegreenplace.net/2011/01/23/how-debuggers-work-part-1#id5) [Debugger Tutorial]
+
 ## License
 
       Copyright [2017] [Sabelo Mhlambi]
